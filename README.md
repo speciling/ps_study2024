@@ -9,4 +9,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=susuu88)](https://solved.ac/susuu88) 이수현  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksy5685)](https://solved.ac/ksy5685) 김신영  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ryu3356)](https://solved.ac/ryu3356) 류채성  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dpwls5042)](https://solved.ac/dpwls5042) 이수현  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dpwls5042)](https://solved.ac/dpwls5042) 백예진  
