@@ -1,6 +1,6 @@
 # ps-study
 #### 2024 코드츄베릅 ps 스터디
-#### 커밋 메세지 규칙: 문제이름 / 난이도 / 걸린시간  ex) 카드정렬하기 / 골드4 / 8분
+#### 커밋 메세지 규칙: 문제이름 / 난이도  ex) 카드정렬하기 / 골드4
 #### 참가자: 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=speciling)](https://solved.ac/speciling) 지연우  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ikiuwlghks)](https://solved.ac/ikiuwlghks) 임지환  
